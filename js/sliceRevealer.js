@@ -7,7 +7,7 @@
     const uncoverOpts = [
         {
             // total number of slices.
-            slicesTotal: 5,
+            slicesTotal: 22,
             // slices color.
             slicesColor: '#fff',
             // 'vertical' || 'horizontal'.
@@ -16,49 +16,49 @@
             slicesOrigin: {show: 'top', hide: 'top'}
         },
         {
-            slicesTotal: 8, 
+            slicesTotal: 22, 
             slicesColor: '#fff', 
             orientation: 'horizontal', 
             slicesOrigin: {show: 'left', hide: 'left'}
         },
         {
-            slicesTotal: 9,
+            slicesTotal: 22,
             slicesColor: '#fff',
             orientation: 'horizontal',
             slicesOrigin: {show: 'right', hide: 'right'}
         },
         {
-            slicesTotal: 8,
+            slicesTotal: 22,
             slicesColor: '#fff',
             orientation: 'vertical',
             slicesOrigin: {show: 'bottom', hide: 'bottom'}
         },
         {
-            slicesTotal: 7,
+            slicesTotal: 22,
             slicesColor: '#fff',
             orientation: 'vertical',
             slicesOrigin: {show: 'bottom', hide: 'bottom'}
         },
         {
-            slicesTotal: 5,
+            slicesTotal: 22,
             slicesColor: '#fff',
             orientation: 'horizontal',
             slicesOrigin: {show: 'left', hide: 'left'}
         },
         {
-            slicesTotal: 9,
+            slicesTotal: 22,
             slicesColor: '#fff',
             orientation: 'vertical',
             slicesOrigin: {show: 'top', hide: 'top'}
         },
         {
-            slicesTotal: 6,
+            slicesTotal: 22,
             slicesColor: '#fff',
             orientation: 'horizontal',
             slicesOrigin: {show: 'right', hide: 'right'}
         },
         {
-            slicesTotal: 8,
+            slicesTotal: 22,
             slicesColor: '#fff',
             orientation: 'vertical',
             slicesOrigin: {show: 'top', hide: 'top'}
